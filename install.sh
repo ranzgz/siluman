@@ -69,7 +69,6 @@ check_token() {
     echo -e "${YELLOW}TELEGRAM : @Opetganda${NC}"
     echo -e "${YELLOW}WHATSAPP : 628563851464${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 10K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
-    echo -e "${YELLOW} JASA C BASH: 50K BAHAN DARI GW BISA REQ NAME + TOKEN BASH${NC}"
     echo -e "${YELLOW}@rafxzcihuy${NC}"
     exit 1
   fi
